@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+    width: 100%;
+  }
+
+.lol {
+    border: 2px solid black;
+    border-radius: 25px !important;
+}
